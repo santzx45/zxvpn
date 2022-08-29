@@ -27,7 +27,7 @@ exit 0
 fi
 # ==================================================
 # Link Hosting Kalian
-fisabiliyusri="raw.githubusercontent.com/santzx45/zxvpn/main/wireguard"
+santzx45="raw.githubusercontent.com/santzx45/zxvpn/main/wireguard"
 
 # Check OS version
 if [[ -e /etc/debian_version ]]; then
