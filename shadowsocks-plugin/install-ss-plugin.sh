@@ -89,7 +89,7 @@ chmod +x xray-plugin
 
 # // download
 cd /home/vps/public_html/
-wget -O gost-plugin-arm.zip "https://raw.githubusercontent.com/santzx45Shadowsocks-Plugin/main/gost-plugin-arm.zip"
+wget -O gost-plugin-arm.zip "https://raw.githubusercontent.com/santzx45/Shadowsocks-Plugin/main/gost-plugin-arm.zip"
 wget -O gost-plugin-x86.zip "https://raw.githubusercontent.com/santzx45/Shadowsocks-Plugin/main/gost-plugin-x86.zip"
 wget -O v2ray-plugin-universal.apk "https://raw.githubusercontent.com/santzx45/Shadowsocks-Plugin/main/v2ray-plugin-universal-v4.44.0.apk"
 wget -O xray-plugin-universal.apk "https://raw.githubusercontent.com/santzx45/Shadowsocks-Plugin/main/xray-plugin-universal-v1.5.4.apk"
