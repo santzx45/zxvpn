@@ -164,7 +164,7 @@ cat> /etc/xray/xtls.json << END
         "kcpSettings": {},
         "httpSettings": {},
         "wsSettings": {
-          "path": "/vmess/",
+          "path": "/zxofficial",
           "headers": {
             "Host": ""
           }
