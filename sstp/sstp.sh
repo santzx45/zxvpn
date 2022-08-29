@@ -54,7 +54,7 @@ locality=Indonesia
 organization=infinity
 organizationalunit=infinity
 commonname=cdn.covid19.go.id
-email=hayuk69@gmail.com
+email=santosomedhy67@gmail.com
 
 #install sstp
 apt-get install -y build-essential cmake gcc linux-headers-`uname -r` git libpcre3-dev libssl-dev liblua5.1-0-dev ppp
